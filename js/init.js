@@ -13,6 +13,6 @@ firebase.initializeApp({
   projectId: "muebleriamacj1-87e03",
   storageBucket: "muebleriamacj1-87e03.appspot.com",
   messagingSenderId: "782628201205",
-  appId: "1:782628201205:web:c884ad5a67a53359705bbc",
-  measurementId: "G-1GEYQHHLDZ"
+  appId: "1:782628201205:web:ee705a714241561c705bbc",
+  measurementId: "G-J8D19C0JS5"
 });
